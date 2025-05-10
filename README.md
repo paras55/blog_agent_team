@@ -126,7 +126,7 @@ Agents communicate by passing messages and memory between each step:
 
 - **GPT Assistants API** from OpenAI
 - **Perplexity API** for real-time search-based knowledge
-- ** Browser Use (Playwright)** for browser control
+- **Browser Use (Playwright)** for browser control
 - **Streamlit** for visual UI
 - **Ghost CMS** for final publishing
 
