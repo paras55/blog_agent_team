@@ -1,0 +1,22 @@
+# Core async support
+asyncio
+
+# LangChain and LangGraph
+langchain>=0.1.14
+langgraph>=0.0.36
+langchain-openai>=0.0.8
+
+# OpenAI
+openai>=1.14.3
+
+# Requests for Perplexity API
+requests>=2.31.0
+
+# Streamlit UI
+streamlit>=1.32.2
+
+# Browser Automation
+playwright>=1.43.0
+nest_asyncio>=1.6.0
+
+#playwright install chromium
